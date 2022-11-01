@@ -21,7 +21,7 @@ ${mundur}
 *STATISTICS*
  • Upload : ${upload}
  • Downloads : ${download}
-
+* BERI JEDA BOTNYA 5 DETIK YA KAK 
 *BOT INFO*
  • Creator : ${ownerName}
  • Bot Name : ${botName}
