@@ -21,7 +21,7 @@ ${mundur}
 *STATISTICS*
  • Upload : ${upload}
  • Downloads : ${download}
-* BERI JEDA BOTNYA 5 DETIK YA KAK 
+
 *BOT INFO*
  • Creator : ${ownerName}
  • Bot Name : ${botName}
@@ -29,7 +29,7 @@ ${mundur}
  • Date : ${tanggal(new Date())}
  • Runtime : ${runtime(process.uptime())}
 
-*USER INFO*
+*USER INFO* 
  • Name : ${pushname !== undefined ? pushname : '-'}
  • Status : ${isCreator ? 'Owner' : isPremium ? 'Premium' : 'Free'}
  • Limit : ${isCreator ? 'Unlimited' : isPremium ? 'Unlimited' : getLimit(sender, limitCount, limit)}
